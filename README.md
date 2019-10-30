@@ -5,7 +5,7 @@
 
 This work uses some simple image processing algorithm to extract QR code in complex background.
 
-And convert the QR code to binar matrix, not decode.
+And convert the QR code to binary matrix, do not decode.
 
 ## How to use
 1. Open `gui.m`
