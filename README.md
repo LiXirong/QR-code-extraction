@@ -12,3 +12,6 @@ And convert the QR code to binary matrix, do not decode.
 2. Select an image
 3. Do some processes in order
 4. Finally save the result
+
+
+![results](https://github.com/LiXirong/QR-code-extraction/blob/master/image/9getresult.png)
